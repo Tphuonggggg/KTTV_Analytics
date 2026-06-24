@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Analytics Platform - Nền tảng Trực quan hóa & Phân tích Dữ liệu KTTV Việt Nam
 
 Nền tảng này tích hợp giao diện React + Tailwind CSS hiện đại và trợ lý AI cục bộ (Human-in-the-Loop) để phân tích dữ liệu Khí tượng Thủy văn (KTTV) 34 tỉnh thành Việt Nam năm 2026.
@@ -43,5 +43,4 @@ Lệnh này sử dụng Vite để tối ưu hóa, nén mã nguồn React/CSS/JS
 - **Bộ lọc động (Dynamic Filters)**: Các bộ lọc Khu vực, Tháng, Mùa ngay đầu Dashboard giúp KPIs lớn và biểu đồ cột lượng mưa tự động phản hồi dữ liệu tức thì.
 - **Quy trình Human-in-the-Loop giả lập**: Upload tập dữ liệu mẫu -> Chat với AI -> AI sinh code -> Phê duyệt code -> Chạy code hiển thị log real-time -> Xem biểu đồ kết quả -> Lưu lịch sử phân tích.
 =======
-# KTTV_Analytics
->>>>>>> 97c014f0ba5c0d8a85fd1a6b932cb5d27ae9e824
+
